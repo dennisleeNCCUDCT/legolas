@@ -6,10 +6,10 @@ function Navbar(){return(<div class="navbar">
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content">
-    <a href="#">佛羅多</a>
-    <a href="#">皮聘</a>
-    <a href="#">山姆</a>
-    <a href="#">甘道夫</a>
+    <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)">佛羅多</a>
+    <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)">皮聘</a>
+    <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)">山姆</a>
+    <a href="https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(film_series)">甘道夫</a>
   </div>
 </div> 
 </div>)
