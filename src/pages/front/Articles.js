@@ -27,7 +27,7 @@ function Articles(){return(<body class="bg-gray-100">
             
             <div class="px-2 w-1/3">
                 <div class="bg-white p-4 rounded shadow mb-4">
-                    <img  class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
+                    <img alt="Placeholder"  class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
                     <h2 class="text-lg font-bold mb-2">
                         Modern Interior
                     </h2>
@@ -38,7 +38,7 @@ function Articles(){return(<body class="bg-gray-100">
             </div>
             <div class="px-2 w-1/3">
                 <div class="bg-white p-4 rounded shadow mb-4">
-                    <img a class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
+                    <img alt="Placeholder" class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
                     <h2 class="text-lg font-bold mb-2">
                         Cozy Living Room
                     </h2>
@@ -49,7 +49,7 @@ function Articles(){return(<body class="bg-gray-100">
             </div>
             <div class="px-2 w-1/3">
                 <div class="bg-white p-4 rounded shadow mb-4">
-                    <img  class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
+                    <img alt="Placeholder" class="w-full h-auto rounded mb-4" src="https://placehold.co/300x200" />
                     <h2 class="text-lg font-bold mb-2">
                         Sleek Kitchen
                     </h2>
