@@ -5,10 +5,10 @@ import Articles from './pages/front/Articles'
 
 import React from "react";
 import {
-  BrowserRouter as Router,
+
   Routes,
   Route,
-  useRoutes,
+
 } from "react-router-dom";
 
 function App() {
