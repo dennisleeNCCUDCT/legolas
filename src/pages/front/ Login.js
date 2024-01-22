@@ -32,9 +32,9 @@ function Login(){return(<body class="bg-gray-100"><Navbar/>
     </label>
    </div>
    <div class="text-sm">
-    <a class="font-medium text-indigo-600 hover:text-indigo-500" href="#">
+    <p class="font-medium text-indigo-600 hover:text-indigo-500" >
      忘記密碼了嗎？
-    </a>
+    </p>
    </div>
   </div>
   <div class="mt-6">
