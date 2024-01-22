@@ -12,7 +12,7 @@ import {
   Route,
 
 } from "react-router-dom";
-import Personal_Homepage from './pages/front/PersonalHomepage';
+
 
 function App() {
 
