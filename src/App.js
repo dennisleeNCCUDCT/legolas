@@ -3,6 +3,7 @@ import './App.css';
 import Home from './pages/front/Home';
 import Articles from './pages/front/Articles'
 import Login from './pages/front/ Login';
+import PersonalHomepage from './pages/front/PersonalHomepage';
 
 import React from "react";
 import {
@@ -11,7 +12,7 @@ import {
   Route,
 
 } from "react-router-dom";
-import Personal_Homepage from './pages/front/Personal_Homepage';
+import Personal_Homepage from './pages/front/PersonalHomepage';
 
 function App() {
 
@@ -20,7 +21,7 @@ function App() {
     <Route path ="/home" element={<Home />} />
     <Route path ="/articles" element={<Articles />} />
     <Route path ="/login" element={<Login />} />
-    <Route path ="/homepage" element={<Personal_Homepage />} />
+    <Route path ="/homepage" element={<PersonalHomepage />} />
     
     </Routes>);
 }

@@ -40,7 +40,7 @@ function Login(){return(<body class="bg-gray-100"><Navbar/>
   </div>
   <div class="mt-6">
    <button class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
-   <Link to={"/PersonalHomepage" }>登入</Link>
+   <Link to={"/homepage" }>登入</Link>
     
    </button>
   </div>

@@ -1,5 +1,9 @@
+import Footer from "../../components/footer"
+import Navbar from "../../components/Navbar"
+
 function PersonalHomepage(){return(
     <body class="bg-gray-100">
+       <Navbar/>
   <div class="container mx-auto px-4">
    <div class="grid grid-cols-3 gap-4 py-8">
 
@@ -59,6 +63,7 @@ function PersonalHomepage(){return(
     </div>
    </div>
   </div>
+  <Footer/>
  </body>
 )}
 
