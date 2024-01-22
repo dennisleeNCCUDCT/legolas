@@ -39,10 +39,11 @@ function Login(){return(<body class="bg-gray-100"><Navbar/>
    </div>
   </div>
   <div class="mt-6">
+  <Link to={"/homepage" }>
    <button class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
-   <Link to={"/homepage" }>登入</Link>
+  登入
     
-   </button>
+   </button></Link>
   </div>
   <div class="mt-6 grid grid-cols-2 gap-3">
    <div>
