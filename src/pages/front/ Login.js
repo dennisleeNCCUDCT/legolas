@@ -66,9 +66,9 @@ function Login(){return(<body class="bg-gray-100"><Navbar/>
   </div>
   <p class="mt-6 text-sm text-gray-600 text-center">
    還沒有帳戶？
-   <a class="font-medium text-indigo-600 hover:text-indigo-500" href="#">
+   <p class="font-medium text-indigo-600 hover:text-indigo-500" >
     立即加入
-   </a>
+   </p>
   </p>
   <p class="mt-2 text-xs text-gray-500 text-center">
    通過點擊上面的“登入”按鈕或使用Facebook或Google登入，即表示您同意 嘎拉嘎拉 的使用條款和隱私政策。嘎拉嘎拉 可能會向您發送有關我們的產品和服務的電子郵件，您可以隨時取消訂閱，我們將嚴格保護您的隱私。
