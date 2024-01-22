@@ -11,6 +11,7 @@ import {
   Route,
 
 } from "react-router-dom";
+import Personal_Homepage from './pages/front/Personal_Homepage';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
     <Route path ="/home" element={<Home />} />
     <Route path ="/articles" element={<Articles />} />
     <Route path ="/login" element={<Login />} />
+    <Route path ="/homepage" element={<Personal_Homepage />} />
     
     </Routes>);
 }

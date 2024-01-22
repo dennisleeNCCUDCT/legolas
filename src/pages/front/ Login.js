@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom"
 import Navbar from "../../components/Navbar"
 
 import Footer from "../../components/footer"
@@ -39,7 +40,8 @@ function Login(){return(<body class="bg-gray-100"><Navbar/>
   </div>
   <div class="mt-6">
    <button class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
-    登入
+   <Link to={"/Personal_Homepage" }>登入</Link>
+    
    </button>
   </div>
   <div class="mt-6 grid grid-cols-2 gap-3">
